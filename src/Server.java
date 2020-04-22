@@ -2,7 +2,7 @@ import java.io.*;
 import java.net.*;
 import java.util.*;
 
-public class Server {
+public class Server {//Linux based Server application
     public static final int PORT = 55588;
     public ServerSocket serverSocket;
     public Socket client;
